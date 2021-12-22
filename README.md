@@ -14,4 +14,4 @@ Strategy 2: Build three new dealerships at the three most profitable locations.*
 
 Both strategies are visible from the "Dashboard" worksheet, and each strategy's impact on revenue, cost, and profit can be viewed by pressing the buttons on the interactive filter.
 
-*Strategy 2 assumes that the cost of building new facilities will be negigible in the long term.
+*Strategy 2 assumes that the cost of building new facilities will be negligible in the long term.
