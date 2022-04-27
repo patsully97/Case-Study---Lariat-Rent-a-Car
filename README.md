@@ -1,5 +1,5 @@
 # Case-Study---Lariat-Rent-a-Car
-In this case study, I analyzed a dataset from the fiction company Lariat and used my analysis to make two recommendations.
+In this case study, I analyzed a dataset from the fictional company Lariat and used my analysis to make two recommendations.
 In order to analyze the data, I made use of a number of Excel functions as follows:
 
 I extensively used INDEX/MATCH to consolidate data from columns across different worksheets.
